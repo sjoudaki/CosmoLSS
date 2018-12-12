@@ -8,6 +8,6 @@ There is more specific information in the readme included in the tarballs.
 
 The measurements and fitting pipeline are presented in https://arxiv.org/abs/1707.06627. The central chains of the paper are available at https://www.dropbox.com/s/54djmqph4s4as62/kids2dflenschains.tar.gz?dl=0.
 
-The version of CosmoLSS used for benchmarking the 3x2pt calculation of the Core Cosmology Library (CCL) can be hound here: https://github.com/sjoudaki/cosmolss_cclbenchmarking
+The version of CosmoLSS used for benchmarking the 3x2pt calculation of the Core Cosmology Library (CCL) can be found here: https://github.com/sjoudaki/cosmolss_cclbenchmarking
 
 Please feel free to contact us at shahab.joudaki@physics.ox.ac.uk if you have any questions.
